@@ -1,0 +1,10 @@
+G:\C#_Projects\Serelization\obj\Debug\Serelization.csprojAssemblyReference.cache
+G:\C#_Projects\Serelization\obj\Debug\Serelization.Form1.resources
+G:\C#_Projects\Serelization\obj\Debug\Serelization.Properties.Resources.resources
+G:\C#_Projects\Serelization\obj\Debug\Serelization.csproj.GenerateResource.cache
+G:\C#_Projects\Serelization\obj\Debug\Serelization.csproj.CoreCompileInputs.cache
+G:\C#_Projects\Serelization\bin\Debug\Serelization.exe.config
+G:\C#_Projects\Serelization\bin\Debug\Serelization.exe
+G:\C#_Projects\Serelization\bin\Debug\Serelization.pdb
+G:\C#_Projects\Serelization\obj\Debug\Serelization.exe
+G:\C#_Projects\Serelization\obj\Debug\Serelization.pdb
